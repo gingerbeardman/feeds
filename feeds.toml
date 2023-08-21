@@ -11,3 +11,10 @@ url = "https://en.wikivoyage.org/wiki/Main_Page"
 entrySelector = ".jcarousel-wrapper .jcarousel-item"
 titleSelector = "h2"
 linkSelector = "h2 a"
+
+[lineageos]
+title = "LineageOS for Nexus 7"
+url = "https://download.lineageos.org/devices/flox/builds"
+entrySelector = ".group"
+titleSelector = ".title"
+linkSelector = ".download-icon"
